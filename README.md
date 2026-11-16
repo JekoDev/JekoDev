@@ -9,7 +9,7 @@ I enjoy solving problems that don't have obvious solutions, experimenting with n
 ### 🔧 What I work with
 
 - **AI & LLMs:** AI Agents, Local LLMs, Prompt Engineering, AI Workflows
-- **Software Development:** Python, JavaScript, TypeScript, C#, PHP, Kotlin, C++, C, Rust, and lots more
+- **Software Development:** Python, JavaScript, TypeScript, C#, PHP, Kotlin, C++, C, Rust
 - **Game Development:** Unity, Custom Engines, Gameplay Systems
 - **Architecture:** Fullstack Applications, Automation, APIs, System Design
 
